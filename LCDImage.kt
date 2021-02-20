@@ -10,6 +10,7 @@ import kotlin.system.exitProcess
  * @version 1.0
  * Takes an image and converts it to whatever an LCD takes to have that image put in Empyrion. Proudly written in Vim.
  * OG Coded for Java 8 & Compiled with OpenJDK
+ * NOW Written in Kotlin * compiled with Kotlin's given CLI compiler
  */
 
 object LCDImage {
