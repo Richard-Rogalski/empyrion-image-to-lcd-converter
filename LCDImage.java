@@ -4,10 +4,9 @@ import java.awt.Image;
 import java.awt.image.BufferedImage;
 /**
  *@author Aslantis
- *@version 0.1
+ *@version 0.2
  *Takes an image and converts it to whatever an LCD takes to have that image put in Empyrion. Proudly written in Vim.
  *Coded for Java 8. Compiled with OpenJDK
- *Non-Licensed, i don't know if thats a thing but feel free to edit or use any part of this w/out asking permission, go nuts man
  */
 public class LCDImage{
 	public static void main(String[] args){
